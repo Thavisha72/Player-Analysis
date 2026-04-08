@@ -14,14 +14,14 @@ As an Example if we choose filters like below ,
 
 The results are ,
 
-Runs - 39
-
-Average - 19.50
-
-Strike Rate - 105.41
-
-Matches - 2
-
-Highest Score - 36
+    Runs - 39
+    
+    Average - 19.50
+    
+    Strike Rate - 105.41
+    
+    Matches - 2
+    
+    Highest Score - 36
 
 Note - The Data I used in this case is from ESPNcricinfo Statsguru Database and updated until last series against Windies October 2024.
