@@ -4,13 +4,13 @@ This Is a player Analysis Dashboard which contains the stats of top 10 Sri Lanka
 
 As an Example if we choose filters like below ,
 
-Player - Pathum Nissanka
-
-Ground - Colombo(RPS)
-
-Opposition - Australia
-
-Date - 2019 to until 2024 NOV
+    Player - Pathum Nissanka
+    
+    Ground - Colombo(RPS)
+    
+    Opposition - Australia
+    
+    Date - 2019 to until 2024 NOV
 
 The results are ,
 
