@@ -5,16 +5,23 @@ This Is a player Analysis Dashboard which contains the stats of top 10 Sri Lanka
 As an Example if we choose filters like below ,
 
 Player - Pathum Nissanka
+
 Ground - Colombo(RPS)
+
 Opposition - Australia
+
 Date - 2019 to until 2024 NOV
 
 The results are ,
 
 Runs - 39
+
 Average - 19.50
+
 Strike Rate - 105.41
+
 Matches - 2
+
 Highest Score - 36
 
 Note - The Data I used in this case is from ESPNcricinfo Statsguru Database and updated until last series against Windies October 2024.
